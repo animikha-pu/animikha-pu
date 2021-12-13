@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @animikha .. I am a Bioinformatician and Biotechnologist
+- 👋 Hi, I’m @animikha-pu .. I am a Bioinformatician and Biotechnologist
 - 👀 I’m interested in learning computational techniques
 - 🌱 I’m currently learning python, cpp programming & algorithms
 
